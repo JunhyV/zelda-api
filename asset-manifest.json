@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/zelda-api/static/css/main.572acd3f.css",
+    "main.js": "/zelda-api/static/js/main.c77d730f.js",
+    "static/media/735d1bf0-a553-46e9-9827-7bda86467eca.jpg": "/zelda-api/static/media/735d1bf0-a553-46e9-9827-7bda86467eca.beb6c781ce83c6624c76.jpg",
+    "static/media/fc12439d-c475-4668-a5a3-3d270472c385.png": "/zelda-api/static/media/fc12439d-c475-4668-a5a3-3d270472c385.24b5f59e6893b3949fa6.png",
+    "static/media/DEIE5jXW0AQDC3b.webp": "/zelda-api/static/media/DEIE5jXW0AQDC3b.f26211089f177b8e3261.webp",
+    "static/media/jpg": "/zelda-api/static/media/6056f1c9482d6bb243127b1b8f7b71d4.9fd197274f157733fba8.jpg",
+    "static/media/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages_Game_Cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages_Game_Cover.71b82406b54407af958c.jpg",
+    "static/media/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.9fb02a2077dbe1358645.jpg",
+    "static/media/Links_Awakening.png": "/zelda-api/static/media/Links_Awakening.c5f607c1bf7a4e3cde70.png",
+    "static/media/The_Legend_of_Zelda_A_Link_Between_Worlds_NA_cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_A_Link_Between_Worlds_NA_cover.83db33f1ee1f179cea6c.jpg",
+    "static/media/The_Legend_of_Zelda_Spirit_Tracks_box_art.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Spirit_Tracks_box_art.ba0bf0ac6a02d2dae9cf.jpg",
+    "static/media/The_Legend_of_Zelda_Breath_of_the_Wild.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Breath_of_the_Wild.f20e5af26a98dd204323.jpg",
+    "static/media/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.33b789695345d4313c03.jpg",
+    "static/media/Legend_of_zelda_cover_(with_cartridge)_gold.png": "/zelda-api/static/media/Legend_of_zelda_cover_(with_cartridge)_gold.38e13fe7b657c69069b1.png",
+    "static/media/Zelda_II_The_Adventure_of_Link_box.jpg": "/zelda-api/static/media/Zelda_II_The_Adventure_of_Link_box.89d668ea504aea0a7b2a.jpg",
+    "static/media/cd-i-zelda-the-wand-of-gamelon.jpg": "/zelda-api/static/media/cd-i-zelda-the-wand-of-gamelon.bc880afb3d362d12f31b.jpg",
+    "static/media/The_Legend_of_Zelda_-_Majoras_Mask_Box_Art.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_-_Majoras_Mask_Box_Art.157e2599aa666a71f371.jpg",
+    "static/media/The_Legend_of_Zelda_Four_Swords_Adventures_Game_Cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Four_Swords_Adventures_Game_Cover.6fd74dd6e7b29307decf.jpg",
+    "static/media/The_Legend_of_Zelda_Tri_Force_Heroes_Boxart.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Tri_Force_Heroes_Boxart.334a1dc04e8af8ed7ad7.jpg",
+    "static/media/The_Legend_of_Zelda_The_Minish_Cap_Game_Cover.jpeg": "/zelda-api/static/media/The_Legend_of_Zelda_The_Minish_Cap_Game_Cover.28034611556df74d2ac5.jpeg",
+    "static/media/The_Legend_of_Zelda_The_Wind_Waker.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_The_Wind_Waker.9d9ae71c92ae82d07925.jpg",
+    "static/media/The_Legend_of_Zelda_Logo.webp": "/zelda-api/static/media/The_Legend_of_Zelda_Logo.1bcba9eccb678b889cc3.webp",
+    "static/media/The_Legend_of_Zelda_A_Link_to_the_Past_&_Four_Swords_Game_Cover.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_A_Link_to_the_Past_&_Four_Swords_Game_Cover.39fbbff4e17c78074e1a.jpg",
+    "static/media/The_Legend_of_Zelda_Ocarina_of_Time.jpg": "/zelda-api/static/media/The_Legend_of_Zelda_Ocarina_of_Time.02b50b916c470c8e9a84.jpg",
+    "index.html": "/zelda-api/index.html",
+    "main.572acd3f.css.map": "/zelda-api/static/css/main.572acd3f.css.map",
+    "main.c77d730f.js.map": "/zelda-api/static/js/main.c77d730f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.572acd3f.css",
+    "static/js/main.c77d730f.js"
+  ]
+}
